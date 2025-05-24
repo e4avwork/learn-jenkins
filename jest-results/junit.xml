@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites>
-  <testsuite name="SampleSuite" tests="1" failures="0" errors="0" skipped="0" timestamp="2025-05-24T00:00:00" time="0.001">
-    <testcase classname="src/App.test.js" name="renders learn Jenkins link" time="0.001"/>
-  </testsuite>
-</testsuites>
